@@ -1,0 +1,14 @@
+.card-search {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    margin-right: 10px;
+  }
+  
+  input[type="text"] {
+    padding: 4px;
+    font-size: 14px;
+    width: 200px;
+  }
+  
